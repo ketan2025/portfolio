@@ -4085,7 +4085,7 @@ window.portfolioAssets = [
     {
         "id":  "159",
         "name":  "Republic Day Motion Post",
-        "path":  "trial.mp4",
+        "path":  "videos/26 jan post.mp4",
         "type":  "video",
         "critique":  "26 jan post - A dynamic product reel utilizing 3D camera orbits, fast manufacturing cuts, and energetic audio syncs to deliver a high-production corporate showcase.",
         "colors":  [
@@ -4111,7 +4111,7 @@ window.portfolioAssets = [
     {
         "id":  "160",
         "name":  "Christmas Motion Reel",
-        "path":  "CHRISTMAS_MOTION.mp4",
+        "path":  "videos/CHRISTMAS_MOTION.mp4",
         "type":  "video",
         "critique":  "CHRISTMAS_MOTION - A dynamic product reel utilizing 3D camera orbits, fast manufacturing cuts, and energetic audio syncs to deliver a high-production corporate showcase.",
         "colors":  [
@@ -4137,7 +4137,7 @@ window.portfolioAssets = [
     {
         "id":  "161",
         "name":  "New Year Motion Reel",
-        "path":  "NEW YEAR REEL.mp4",
+        "path":  "videos/NEW YEAR REEL.mp4",
         "type":  "video",
         "critique":  "NEW YEAR REEL - A dynamic product reel utilizing 3D camera orbits, fast manufacturing cuts, and energetic audio syncs to deliver a high-production corporate showcase.",
         "colors":  [
@@ -4163,7 +4163,7 @@ window.portfolioAssets = [
     {
         "id":  "162",
         "name":  "Did You Know? Bain Marie",
-        "path":  "DYK BAIN MARIE2.mp4",
+        "path":  "videos/DYK BAIN MARIE2.mp4",
         "type":  "video",
         "critique":  "DYK BAIN MARIE2 - An educational infographic reel. Employs smooth typography animations and callout markers explaining industrial heating mechanics.",
         "colors":  [
@@ -4189,7 +4189,7 @@ window.portfolioAssets = [
     {
         "id":  "163",
         "name":  "Did You Know? Coffee Machine Element",
-        "path":  "DYK COFFEE MACHINE ELEMENT2.mp4",
+        "path":  "videos/DYK COFFEE MACHINE ELEMENT2.mp4",
         "type":  "video",
         "critique":  "DYK COFFEE MACHINE ELEMENT2 - An educational infographic reel. Employs smooth typography animations and callout markers explaining industrial heating mechanics.",
         "colors":  [
@@ -4215,7 +4215,7 @@ window.portfolioAssets = [
     {
         "id":  "164",
         "name":  "Did You Know? Finned Heater",
-        "path":  "DYK FINNED HEATER2.mp4",
+        "path":  "videos/DYK FINNED HEATER2.mp4",
         "type":  "video",
         "critique":  "DYK FINNED HEATER2 - An educational infographic reel. Employs smooth typography animations and callout markers explaining industrial heating mechanics.",
         "colors":  [
@@ -4241,7 +4241,7 @@ window.portfolioAssets = [
     {
         "id":  "165",
         "name":  "Did You Know? Griller Element",
-        "path":  "DYK GRILLER ELEMENT.mp4",
+        "path":  "videos/DYK GRILLER ELEMENT.mp4",
         "type":  "video",
         "critique":  "DYK GRILLER ELEMENT - An educational infographic reel. Employs smooth typography animations and callout markers explaining industrial heating mechanics.",
         "colors":  [
@@ -4267,7 +4267,7 @@ window.portfolioAssets = [
     {
         "id":  "166",
         "name":  "Did You Know? Popcorn Element",
-        "path":  "DYK POPCORN ELEMENT.mp4",
+        "path":  "videos/DYK POPCORN ELEMENT.mp4",
         "type":  "video",
         "critique":  "DYK POPCORN ELEMENT - An educational infographic reel. Employs smooth typography animations and callout markers explaining industrial heating mechanics.",
         "colors":  [
@@ -4293,7 +4293,7 @@ window.portfolioAssets = [
     {
         "id":  "167",
         "name":  "Airex Factory Visit Reel",
-        "path":  "NEW FINNED AUD.mp4",
+        "path":  "videos/NEW FINNED AUD.mp4",
         "type":  "video",
         "critique":  "AIREX_FACTORY_VISIT - A dynamic product reel utilizing 3D camera orbits, fast manufacturing cuts, and energetic audio syncs to deliver a high-production corporate showcase.",
         "colors":  [
@@ -4319,7 +4319,7 @@ window.portfolioAssets = [
     {
         "id":  "168",
         "name":  "Finned Heater Product Reel",
-        "path":  "reel f 1_2.mp4",
+        "path":  "videos/reel f 1_2.mp4",
         "type":  "video",
         "critique":  "NEW FINNED AUD - A dynamic product reel utilizing 3D camera orbits, fast manufacturing cuts, and energetic audio syncs to deliver a high-production corporate showcase.",
         "colors":  [
@@ -4345,7 +4345,7 @@ window.portfolioAssets = [
     {
         "id":  "170",
         "name":  "Tubular Heater Product Reel",
-        "path":  "TUBULAR HEATER AUD.mp4",
+        "path":  "videos/TUBULAR HEATER AUD.mp4",
         "type":  "video",
         "critique":  "TUBULAR HEATER AUD - A dynamic product reel utilizing 3D camera orbits, fast manufacturing cuts, and energetic audio syncs to deliver a high-production corporate showcase.",
         "colors":  [
