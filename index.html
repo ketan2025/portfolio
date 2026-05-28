@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ketan Verma | Creative Designer Portfolio</title>
+  <meta name="description" content="Premium portfolio of Ketan Verma, UI/UX Designer, 3D Artist, and Motion Graphic Designer. Clean layout with deep design analytics and interactive assets.">
+  
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+</head>
+<body>
+
+  <header id="main-header">
+    <div class="container nav-container">
+      <a href="#" class="logo">KETAN.DESIGN</a>
+      <ul class="nav-links">
+        <li><a href="#" class="active" id="nav-home-link">Home</a></li>
+        <li><a href="#portfolio" id="nav-portfolio-link">Portfolio</a></li>
+        <li><a href="#contact" id="nav-contact-link">Contact</a></li>
+      </ul>
+      <a href="#contact" class="btn btn-secondary" style="padding: 8px 20px;">Let's Talk</a>
+    </div>
+  </header>
+
+  <section id="home" class="hero">
+    <div class="hero-bg-glows">
+      <div class="hero-glow-1"></div>
+      <div class="hero-glow-2"></div>
+    </div>
+    <div class="hero-content">
+      <div class="hero-badge">
+        <i class="bi bi-patch-check-fill"></i> Available for Freelance & Full-time
+      </div>
+      <h1>Ketan <span class="gradient-text">Verma</span></h1>
+      <div class="typed-container">
+        I'm a <span class="typed-text" id="typed-roles"></span>
+      </div>
+      <p class="section-desc" style="margin-bottom: 40px; font-size: 1.15rem; max-width: 700px;">
+        I balance visual aesthetics with structural utility. Specializing in UI/UX architecture, 
+        premium marketing graphics, and custom 3D element rendering. Explore my designs below along with dominant color evaluations.
+      </p>
+      <div class="hero-actions">
+        <a href="#portfolio" class="btn btn-primary">
+          Explore Portfolio <i class="bi bi-arrow-right"></i>
+        </a>
+        <a href="#contact" class="btn btn-secondary">
+          Get in Touch
+        </a>
+        <a href="https://airexheater.in/" target="_blank" class="btn btn-third">
+          UI/UX Portfolio
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section id="portfolio">
+    <div class="container">
+      <div class="section-header reveal">
+        <span class="section-tag">Showcase</span>
+        <h2>Creative Works</h2>
+        <p class="section-desc">
+          Browse through live campaigns, technical renders, festive motion reels, and web assets. 
+          Click on any item to view color palettes and full design evaluations.
+        </p>
+      </div>
+
+     <!-- Category Filter Tabs -->
+<div class="gallery-filters reveal">
+   <button class="filter-btn active" data-filter="all">All Projects</button>
+  <button class="filter-btn" data-filter="campaigns">Campaigns</button> 
+  <button class="filter-btn" data-filter="sa-campaigns">SA Campaigns</button>
+  <button class="filter-btn" data-filter="exhibitions">Exhibitions</button>
+  <button class="filter-btn" data-filter="mailers">Mailers</button>
+  <button class="filter-btn" data-filter="meta-campaigns">Meta Campaigns</button>
+  <button class="filter-btn" data-filter="products">Product Renders</button>
+  <button class="filter-btn" data-filter="web-banners">Web Banners</button>
+  <button class="filter-btn" data-filter="wp-campaigns">WhatsApp Campaigns</button>
+  <button class="filter-btn" data-filter="festive-motion">Festive & Motion</button>
+</div>
+
+      <div class="gallery-grid reveal" id="portfolio-grid"></div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="container">
+      <div class="section-header reveal">
+        <span class="section-tag">Get In Touch</span>
+        <h2>Let's Craft Something Unique</h2>
+        <p class="section-desc">
+          Ready to elevate your product's design presence? Send me a message or connect via social media links.
+        </p>
+      </div>
+
+      <div class="contact-grid reveal">
+        <div class="contact-info">
+          <div class="info-item">
+            <div class="info-icon"><i class="bi bi-envelope"></i></div>
+            <div class="info-text">
+              <h3>Email Me</h3>
+              <a href="mailto:kv158818@gmail.com">kv158818@gmail.com</a>
+            </div>
+          </div>
+          <div class="info-item">
+            <div class="info-icon"><i class="bi bi-telephone"></i></div>
+            <div class="info-text">
+              <h3>Call/WhatsApp</h3>
+              <a href="tel:+919958772498">+91 99587 72498</a>
+            </div>
+          </div>
+          <div class="info-item">
+            <div class="info-icon"><i class="bi bi-geo-alt"></i></div>
+            <div class="info-text">
+              <h3>Location</h3>
+              <p>Delhi NCR, India</p>
+            </div>
+          </div>
+          <div class="info-item" style="flex-direction: column; gap: 12px;">
+            <h3>Follow My Work</h3>
+            <div class="social-links">
+              <a href="https://www.behance.net/ketanverma4" target="_blank" class="social-icon"><i class="bi bi-behance"></i></a>
+              <a href="https://ketanverma3.artstation.com/" target="_blank" class="social-icon"><i class="bi bi-box-seam"></i></a>
+              <a href="https://www.instagram.com/ketan_v912/" target="_blank" class="social-icon"><i class="bi bi-instagram"></i></a>
+              <a href="https://www.linkedin.com/in/ketan-verma-18471b34b/" target="_blank" class="social-icon"><i class="bi bi-linkedin"></i></a>
+            </div>
+          </div>
+        </div>
+
+        <form class="contact-form glass-panel" onsubmit="event.preventDefault(); alert('Message sent successfully!');">
+          <div class="form-group">
+            <label for="name">Name</label>
+            <input type="text" id="name" placeholder="John Doe" required>
+          </div>
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" id="email" placeholder="john@example.com" required>
+          </div>
+          <div class="form-group">
+            <label for="message">Message</label>
+            <textarea id="message" rows="4" placeholder="Hi Ketan, let's collaborate on a UI/UX project..." required></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary" style="align-self: flex-start; border: none;">
+            Send Message <i class="bi bi-send-fill"></i>
+          </button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <div class="lightbox" id="portfolio-lightbox">
+    <button class="lightbox-close" id="lightbox-close-btn">&times;</button>
+    <div class="lightbox-container glass-panel">
+      <div class="lightbox-media" id="lightbox-media-container"></div>
+      <div class="lightbox-sidebar" id="lightbox-sidebar">
+        <div>
+          <span class="sidebar-category" id="lightbox-category">Campaign</span>
+          <h3 class="sidebar-title" id="lightbox-title">Item Title</h3>
+        </div>
+        <div class="sidebar-section">
+          <h4>Dominant Color Palette</h4>
+          <div class="color-swatches" id="lightbox-swatches"></div>
+        </div>
+        <div class="sidebar-section">
+          <h4>Design & Critique Evaluation</h4>
+          <p id="lightbox-critique">Detailed analysis of the composition, color balance, and typographic grids used in this asset.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2026 Ketan Verma. Built with premium aesthetics and design critiques.</p>
+    </div>
+  </footer>
+
+  <script src="assets.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
